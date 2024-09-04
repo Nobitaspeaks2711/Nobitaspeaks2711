@@ -3,7 +3,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobitaspeaks2711&label=Profile%20views&color=0e75b6&style=flat" alt="nobitaspeaks2711" /> </p>
-   https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light
+   
+     ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light)
 
 - 🔭 I’m currently working on [ResponsivePage](https://github.com/Nobitaspeaks2711/TailwindCssResponsivePage)
 

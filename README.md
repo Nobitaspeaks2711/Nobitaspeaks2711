@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm vaibhav auti</h1>
 <h3 align="center">A passionate MERN Stack dev from India</h3>
+https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobitaspeaks2711&label=Profile%20views&color=0e75b6&style=flat" alt="nobitaspeaks2711" /> </p>
 

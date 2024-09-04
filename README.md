@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobitaspeaks2711&label=Profile%20views&color=0e75b6&style=flat" alt="nobitaspeaks2711" /> </p>
    
-     ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light)
+   <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light" alt="GitHub Trophy" />
+</p>
 
 - 🔭 I’m currently working on [ResponsivePage](https://github.com/Nobitaspeaks2711/TailwindCssResponsivePage)
 

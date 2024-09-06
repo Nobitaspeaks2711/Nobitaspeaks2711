@@ -10,19 +10,12 @@
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light" alt="GitHub Trophy" />
 </p>
-
 - 🔭 I’m currently working on [ResponsivePage](https://github.com/Nobitaspeaks2711/TailwindCssResponsivePage)
-
 - 🌱 I’m currently learning **MERN Stack ,https://30dc.graphy.com/s/courses/64eebdb8e4b0a14befedc15d/take**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nobitaspeaks2711](https://github.com/Nobitaspeaks2711)
-
 - 📝 I regularly write articles on [https://medium.com/@vaibhavauti22/overcoming-challenges-in-software-testing-for-non-technical-professionals-c190cce777ef](https://medium.com/@vaibhavauti22/overcoming-challenges-in-software-testing-for-non-technical-professionals-c190cce777ef)
-
-- 💬 Ask me about **Test automation, API automation and SQL**
-
+- 💬 Ask me about **Test automation, API automation SQL and Web Devolpment**
 - 📫 How to reach me **vaibhavbauti99@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-auti/](https://www.linkedin.com/in/vaibhav-auti/)
 
 ### Blogs posts

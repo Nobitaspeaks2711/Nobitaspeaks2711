@@ -19,7 +19,7 @@
   
 - 📝 I regularly write articles on [https://medium.com/@vaibhavauti22/overcoming-challenges-in-software-testing-for-non-technical-professionals-c190cce777ef](https://medium.com/@vaibhavauti22/overcoming-challenges-in-software-testing-for-non-technical-professionals-c190cce777ef)
   
-- 💬 Ask me about **Test automation, API automation SQL and Web Devolpment**
+- 💬 Ask me about **Test automation, API automation SQL and Web Development**
   
 - 📫 How to reach me **vaibhavbauti99@gmail.com**
   

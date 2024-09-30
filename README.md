@@ -10,8 +10,9 @@
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light" alt="GitHub Trophy" />
 </p>
+ <p align="right">
 <a href="https://www.buymeacoffee.com/vaibhavauti"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vaibhavauti&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+</p>
 - 🔭 I’m currently working on Full Stack E-commerce Website [https://github.com/Nobitaspeaks2711/client](https://github.com/Nobitaspeaks2711/client)
   
 - 🌱 I’m currently learning **MERN Stack ,https://30dc.graphy.com/s/courses/64eebdb8e4b0a14befedc15d/take**

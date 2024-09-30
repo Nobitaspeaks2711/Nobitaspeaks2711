@@ -10,6 +10,7 @@
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light" alt="GitHub Trophy" />
 </p>
+<a href="https://www.buymeacoffee.com/vaibhavauti"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vaibhavauti&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 - 🔭 I’m currently working on Full Stack E-commerce Website [https://github.com/Nobitaspeaks2711/client](https://github.com/Nobitaspeaks2711/client)
   
